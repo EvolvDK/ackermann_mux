@@ -1,6 +1,6 @@
 # ackermann_mux
-=========
-Adapted from twist_mux (https://github.com/ros-teleop/twist_mux) for use with ackermann_msgs.
+
+Adapted from [twist_mux] (https://github.com/ros-teleop/twist_mux) for use with ackermann_msgs.
 
 AckermannDriveStamped multiplexer with support for
 [ackermann_msgs/msg/AckermannDriveStamped](http://docs.ros.org/api/ackermann_msgs/html/msg/AckermannDriveStamped.html)
